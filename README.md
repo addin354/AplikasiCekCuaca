@@ -24,8 +24,8 @@ AplikasiCekCUaca adalah aplikasi Java GUI yang memungkinkan pengguna untuk memer
 ## Persyaratan
 
 - **Java Development Kit (JDK)** versi 8 atau yang lebih baru.
-- **API Key** dari OpenWeatherMap untuk akses ke data cuaca. Aplikasi ini sudah menyertakan API key default, tetapi disarankan untuk mendapatkan key Anda sendiri [di sini](https://openweathermap.org/api).
-
+- **API Key** dari OpenWeatherMap untuk akses ke data cuaca.
+  
 ## Cara Menggunakan
 
 1. **Jalankan Program**: Buka file `CekCuacaFrame.java` di IDE Anda dan jalankan programnya.
